@@ -34,9 +34,9 @@ Artificial intelligence was expected to close this gap, and it has closed half o
 
 So the learner is left holding two halves that do not meet: **simulations that cannot speak, and AI that cannot see.**
 
-## Voiceless (No Community)
+## Voiceless (No Global Community)
 
-The learner also has no say. They use what someone else decided to build. They cannot ask for the simulation they need, and they have no part in deciding what is made next. A student who is capable of building a simulation of their own has nowhere to publish it and no one to credit them for contributing their part in a field that stands humbly behind everything that we see around us in this world. 
+The learner also has no say. They use what someone else decided to build. They cannot ask for the simulation they need, and they have no part in deciding what is made next. A student who is capable of building a simulation of their own has nowhere to publish it and no one to credit them for contributing their part in a field that stands humbly behind everything that we see around us in this world.
 
 The people these tools exist for are the only people with no influence over them.
 
@@ -48,6 +48,6 @@ The problem is not a shortage of content. There is more physics material online 
 - **No guide.** No one standing beside the learner, looking at the same experiment, at the moment of confusion.
 - **No voice.** No way for the people who learn physics to decide what is built for them.
 
-The field that made artificial intelligence possible is still waiting for artificial intelligence to come back and teach it properly.
+It is a shame to see that the field that made artificial intelligence possible is still waiting for artificial intelligence to come back and teach it properly.
 
 *Continued in Document 2: Our Solution.*
