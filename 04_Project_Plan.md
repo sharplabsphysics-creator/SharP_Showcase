@@ -16,7 +16,6 @@
 - A simulation library that grows where real demand is, because learners propose and vote on it.
 - Contributors whose work reaches learners everywhere, under their own names.
 - A shared way of writing simulations, so that each new one is tutor-ready from the day it is added.
-- A published measurement of how well Psi's answers hold up against the textbooks they draw on. This study is planned, and we claim no accuracy figure before it is done.
 
 ## Target Users
 
@@ -37,49 +36,20 @@
 - A Theory view beside each simulation.
 - The Idea Lab, the weekly community poll with confirmed votes, the public build board and the record of past polls.
 
-**Planned next**
-
-- Experiments confirmed by the simulation's own physics before Psi offers them.
-- Psi returning after each experiment to explain the result.
-- Simulations contributed by the community, reviewed and published under their authors' names.
-- A published evaluation of Psi on realistic student questions.
-- Wider coverage of physics, in the order the community votes for.
-
-## Implementation Plan and Timeline
-
-| Phase | Period | Work |
-|---|---|---|
-| Foundation | From March 2026 | The platform, the simulation engine and the first simulations |
-| Growth | Through mid 2026 | A larger library, a shared design language, the Idea Lab |
-| Intelligence | Autumn 2026 | Psi, the textbook knowledge base and one-click experiments |
-| Community | Autumn 2026 | Weekly poll, confirmed voting and the public build board |
-| Championship preparation | 12 to 24 October 2026 | Physics-confirmed experiments, Psi's explanation after each experiment, evaluation of Psi, a dependable live demonstration |
-| Opening to contributors | After the championship | Simulation submissions and review, author credit, new areas of physics |
-
-The prototype described in these documents already exists and is deployed. The time between submission and the final is for deepening and measuring it, not for building it from nothing.
-
 ## Resources and Requirements
-
-**Team**
-
-- **Muhammad Haris**, frontend development and integration: the SharP interface, and bringing the simulations, pages and Psi together.
-- **Muhammad Abdullah**, simulation development and user experience: the physics behind the simulations and how the platform looks and feels.
-- **Hasan Ali**, backend development, security and quality: Psi's server side, and keeping the platform safe and reliable.
-
-We are physics students building an AI system for the subject we study. We are our own first users, and we built SharP because we needed it.
 
 **What SharP runs on**
 
-- A web platform that works in any modern browser.
-- A server that hosts Psi and the community features.
-- Access to a language model. Psi is designed so that the model behind it can be replaced without changing the platform.
-- A curated knowledge base of physics teaching material.
+- **Client:** A web platform built with Vanilla web technologies and Three.js that works in any modern browser without installation.
+- **Backend Infrastructure:** Psi and the community features are currently hosted entirely without commercial paid hosting—running live on a university computer maintained by the team, connected to the internet via secure tunneling.
+- **AI Architecture & Compute:** Model-agnostic design. Our architectural plan to host and run fine-tuned physics models locally 24/7 is currently on hold due to a lack of dedicated GPU compute and funds to afford commercial hosting. In the interim, Psi relies on API key pools with smart local physics fallbacks.
+- **Knowledge Base:** A curated vector index of standard university physics textbooks and SharP teaching materials.
 
 **What would help us most**
 
-- Mentorship on evaluating an AI tutor responsibly and on growing a contributor community.
-- Dependable hosting and model capacity, so Psi stays free as use grows.
-- Introductions to universities and physics educators who would use SharP with their students.
+- **Financial support and GPU compute:** Dedicated compute resources or hosting grants so we can transition from a university PC to permanent, dependable infrastructure and run local models 24/7 as traffic scales.
+- **Mentorship:** Guidance on evaluating an AI tutor responsibly, validating physics reasoning, and growing an open-source contributor community.
+- **Educational partnerships:** Introductions to universities, physics departments, and lecturers who want to adopt SharP for their classrooms and labs.
 
 ## Potential Challenges and Risks
 
@@ -96,4 +66,4 @@ We are physics students building an AI system for the subject we study. We are o
 
 Three rules govern Psi. The tutor proposes, the browser acts, the learner decides. Answers are grounded in real sources. And we claim only what we can demonstrate.
 
-*Continued in Document 5: Screenshots.*
+*See the provided SharP_Showcase Github repository for Screenshots.*

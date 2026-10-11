@@ -76,7 +76,6 @@ An About page introduces the people behind SharP and what Psi is.
 ## What makes the experience whole
 
 - **Nothing to install.** SharP runs in a web browser.
-- **Free to use.** No account is needed to explore, simulate or ask.
 - **One continuous path.** Watching, asking, experimenting, proposing and voting all happen in the same place, so a learner never has to leave to take the next step.
 
 *Continued in Document 4: Project Plan.*
