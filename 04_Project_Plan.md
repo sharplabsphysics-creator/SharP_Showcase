@@ -49,7 +49,7 @@
 
 - **Financial support and GPU compute:** Dedicated compute resources or hosting grants so we can transition from a university PC to permanent, dependable infrastructure and run local models 24/7 as traffic scales.
 - **Mentorship:** Guidance on evaluating an AI tutor responsibly, validating physics reasoning, and growing an open-source contributor community.
-- **Educational partnerships:** Introductions to universities, physics departments, and lecturers who want to adopt SharP for their classrooms and labs.
+- **Educational partnerships:** Introductions to universities, physics departments, and lecturers who want to adopt SharP for their classrooms and labs to help further improve the experience and introduce more interactive community-based learning features, all by using AI in a responsible way.
 
 ## Potential Challenges and Risks
 
