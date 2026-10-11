@@ -8,7 +8,9 @@ Every screen this proposal is read on works because of physics. The transistor c
 
 Physics also has one of the largest learning communities of any science. It is taught in schools and universities in every country, and far beyond the classroom there are people who follow it simply because they want to know how the universe works, from the motion of galaxies to the behaviour of quarks.
 
-That community exists. It has never been gathered in one place.
+Yet while almost every secondary discipline has its own purpose-built modern platform, the parent science that made them all possible has been left behind. The master field that built the technological world still has no unified home for its own students.
+
+That community exists. It has simply never been gathered in one place.
 
 ## Scattered
 
@@ -20,21 +22,21 @@ Because the tools are scattered, the people are scattered too. A learner in one 
 
 The largest simulation libraries on the internet are free and deservedly loved. They are also built to serve everyone at once: many sciences, an introductory level, one fixed experience for every visitor.
 
-The physics that most needs to be seen is the physics they reach least. Quantum mechanics, statistical physics and the physics of solids describe things no teaching laboratory can put in front of a student. Nobody can watch a particle pass through a barrier it does not have the energy to cross. In exactly the subjects where intuition fails and a picture matters most, the learner is left with equations and imagination.
+The physics that most needs to be seen is the physics they reach least. Nobody can watch a particle pass through a barrier it does not have the energy to cross. In exactly the subjects where intuition fails and a picture matters most, the learner is left with equations and imagination.
 
 ## Silent
 
 Every one of these simulations shares a limit. It shows, and it never explains.
 
-A learner moves a slider and the picture changes. Why did it change? What should they try next? Is the thing they believed a moment ago actually true? The simulation cannot say. So the most valuable moment in learning, the moment of "wait, why did that happen?", arrives when the learner is alone.
+A learner moves a slider and the picture changes. Why did it change? The simulation cannot say. So the most valuable moment in learning, the moment of "wait, why did that happen?", arrives when the learner is alone.
 
 Artificial intelligence was expected to close this gap, and it has closed half of it. A student can ask a general AI assistant about physics and receive a fluent answer. But that assistant cannot see the experiment on the student's screen. It does not know what the controls are set to. It cannot reach in and show the next step.
 
 So the learner is left holding two halves that do not meet: **simulations that cannot speak, and AI that cannot see.**
 
-## Voiceless
+## Voiceless (No Community)
 
-The learner also has no say. They use what someone else decided to build. They cannot ask for the simulation they need, and they have no part in deciding what is made next. A student who is capable of building a simulation of their own has nowhere to publish it and no one to credit them for it.
+The learner also has no say. They use what someone else decided to build. They cannot ask for the simulation they need, and they have no part in deciding what is made next. A student who is capable of building a simulation of their own has nowhere to publish it and no one to credit them for contributing their part in a field that stands humbly behind everything that we see around us in this world. 
 
 The people these tools exist for are the only people with no influence over them.
 
