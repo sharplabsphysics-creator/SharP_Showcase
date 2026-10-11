@@ -77,6 +77,6 @@ This repository is our submission to AI Showdown, the 4th International AI Champ
 
 ## Team
 
-- **Muhammad Haris**, frontend development and integration
+- **Muhammad Haris**, Founder, frontend/backend development and integrater
 - **Muhammad Abdullah**, simulation development and user experience
 - **Hasan Ali**, backend development, security and quality
