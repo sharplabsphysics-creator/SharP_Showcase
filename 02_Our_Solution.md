@@ -4,7 +4,7 @@
 
 ## One home for physics, with a tutor that sees what you see
 
-SharP is a free, community-driven platform that unifies three aspects : interactive physics simulations, an AI tutor that takes part in the learner's experiment, and a community that decides what must be built next for them.
+SharP is a free, community-driven platform that unifies three aspects: interactive physics simulations, an AI tutor that takes part in the learner's experiment, and a community that decides what must be built next for them.
 
 Each answers one of the three absences in the problem statement. A home. A guide. A voice.
 
